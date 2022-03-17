@@ -15,7 +15,7 @@ Spring MVC est un framwork qui implémente le pattern MVC, dans mon je l'ai util
 dans cette version j'ai pu implementer l'affichage et l'ajout des etudiants.
 * ajouter étudiant : allez sur /home et clicker new Etudiant
 * Afficher les étudiant : aller sur /home
-* s'authentifier : allez sur /login
+* s'authentifier : allez sur /login et utiliser `login:niama password:password`
 * page d'accueil : /
 ## DevOps
 ### Docker
